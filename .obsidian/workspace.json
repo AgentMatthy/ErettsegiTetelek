@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a4a102840a3f30f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf9a61a449feaa2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d83a761ff48d05",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Töri/Kiserettsegi/1.1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1.1"
+            }
+          },
+          {
+            "id": "ba6ced8a54b003d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Töri/Kiserettsegi/1.2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1.2"
+            }
+          },
+          {
+            "id": "622c6cfaeccfa3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/Tetelek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tetelek"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa5262279b5ae640",
+    "type": "split",
+    "children": [
+      {
+        "id": "73598da40c957d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e87e2423d36a69f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e6e840a17adddeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22e7e8c5bd20d90c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a094c3104687a01",
+    "type": "split",
+    "children": [
+      {
+        "id": "df63019c2d602f02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a1f420bfa135688",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Töri/Kiserettsegi/1.1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.1"
+            }
+          },
+          {
+            "id": "d27590ad2e21de41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Töri/Kiserettsegi/1.1.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1"
+            }
+          },
+          {
+            "id": "54902723fb72965b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "133692c80575fc85",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e891080c0a7bc61b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Töri/Kiserettsegi/1.1.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "622c6cfaeccfa3c2",
+  "lastOpenFiles": [
+    "Töri/Kiserettsegi/1.1.pdf",
+    "Töri/Tetelek.md",
+    "Töri/Kiserettsegi/1.2.pdf",
+    "Magyar/Vazlat/Regi/Balassi-Balint.md",
+    "Magyar/Vazlat/Bori/13. tétel - Radnóti Miklós.pdf",
+    "Magyar/Vazlat/Bori/03. tétel - Arany János balladái.pdf",
+    "Magyar/Vazlat/Bori/05. tétel - Mikszáth Kálmán.pdf"
+  ]
+}

@@ -1,0 +1,20 @@
+1. A középkori városok   
+2. A vegyesházi királyok kora  
+3. Politika és gazdaság Magyarországon: politikai és gazdasági konszolidáció Magyarországon a két világháború között  
+4. Politikai változások az első világháború után: forradalmi átalakulások Magyarországon  
+5. A reformkor fő kérdései, a reformkor kiemelkedő politikusai   
+6. A holokauszt Európában és Magyarországon  
+7. Az iszlám világ  
+8. A keresztény magyar állam megalapítása    
+9. A felvilágosodás: 18. századi Magyarország felvilágosult uralkodói  
+10. A kádári diktatúra  
+11. A dualizmus kora  
+12. Az ipari forradalom második hulláma a világban és Magyarországon  
+13. Politikai intézmények: a magyarországi választási rendszer  
+14. Az ókori Athén államszervezete  
+15. A földrajzi felfedezések és következményeik  
+16. Állam, ideológia és gazdaság a két világháború között: Németország példája   
+17. Vallások: kereszténység   
+18. Árpád-kor: tatárjárás, az (ország)újjáépítése   
+19. Az első világháború jellege, jellemzői, hadviselése  
+20. Párizs környéki békék: Magyarország első világháborús részvételét lezáró békediktátum tartalma, következményei
