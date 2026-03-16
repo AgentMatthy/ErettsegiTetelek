@@ -1,7 +1,7 @@
 - [x] 1. A középkori városok   
-- [ ] 2. A vegyesházi királyok kora  
+- [x] 2. A vegyesházi királyok kora  
 - [ ] 3. Politika és gazdaság Magyarországon: politikai és gazdasági konszolidáció Magyarországon a két világháború között  
-- [ ] 4. Politikai változások az első világháború után: forradalmi átalakulások Magyarországon  
+- [x] 4. Politikai változások az első világháború után: forradalmi átalakulások Magyarországon  
 - [ ] 5. A reformkor fő kérdései, a reformkor kiemelkedő politikusai   
 - [ ] 6. A holokauszt Európában és Magyarországon  
 - [ ] 7. Az iszlám világ  
@@ -11,7 +11,7 @@
 - [ ] 11. A dualizmus kora  
 - [ ] 12. Az ipari forradalom második hulláma a világban és Magyarországon  
 - [ ] 13. Politikai intézmények: a magyarországi választási rendszer  
-- [ ] 14. Az ókori Athén államszervezete  
+- [x] 14. Az ókori Athén államszervezete  
 - [ ] 15. A földrajzi felfedezések és következményeik  
 - [ ] 16. Állam, ideológia és gazdaság a két világháború között: Németország példája   
 - [ ] 17. Vallások: kereszténység   
