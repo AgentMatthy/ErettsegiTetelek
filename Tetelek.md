@@ -23,7 +23,7 @@ Tori:
 
 
 Magyar:
-- [ ] 1.	Az európai irodalom alapvető hagyományai – a Biblia
+- [x] 1.	Az európai irodalom alapvető hagyományai – a Biblia
 - [ ] 2.	Moliére: Tartuffe
 - [ ] 3.	Csokonai Vitéz Mihály költészetének műfaji és stílusbeli sokszínűsége
 - [ ] 4.	Vörösmarty Mihály: Csongor és Tünde
