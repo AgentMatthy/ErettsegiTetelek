@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54f0d639ea55e0be",
+        "id": "d7adf0ae2875d516",
         "type": "tabs",
         "children": [
           {
-            "id": "d0ed3dc678497eae",
+            "id": "cdd4fc0e0937e843",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Tetelek"
-            }
-          },
-          {
-            "id": "3e38c3976636fa12",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Töri/Kiserettsegi/3.6.2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3.6.2"
             }
           }
         ]
@@ -206,13 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0ed3dc678497eae",
+  "active": "cdd4fc0e0937e843",
   "lastOpenFiles": [
-    "Töri/Kidolgozott/9.pdf",
     "Töri/Kiserettsegi/3.6.2.pdf",
+    "Magyar/Vazlat/Bori/03. tétel - Arany János balladái.pdf",
+    "Tetelek.md",
+    "Töri/Kidolgozott/9.pdf",
     "Töri/Kiserettsegi/3.6.1.pdf",
     "Töri/Kiserettsegi/3.5.2.pdf",
-    "Tetelek.md",
     "Töri/Kiserettsegi/3.6.3.pdf",
     "Töri/Kiserettsegi/3.5.1.pdf",
     "Töri/Kiserettsegi/3.4.pdf",
