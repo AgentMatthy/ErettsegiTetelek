@@ -21,7 +21,7 @@ Tori:
 - [ ] 19. A kádári diktatúra
 - [ ] 20. Politikai intézmények: a magyarországi választási rendszer
 
-
+asdasdasd
 Magyar:
 - [ ] 1.	Az európai irodalom alapvető hagyományai – a Biblia
 - [ ] 2.	Moliére: Tartuffe

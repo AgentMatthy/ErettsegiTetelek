@@ -11,12 +11,14 @@
             "id": "d0ed3dc678497eae",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Töri/Kidolgozott/9.pdf"
+                "file": "Tetelek.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "9"
+              "icon": "lucide-file",
+              "title": "Tetelek"
             }
           },
           {
@@ -31,8 +33,7 @@
               "title": "3.6.2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,14 +206,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e38c3976636fa12",
+  "active": "d0ed3dc678497eae",
   "lastOpenFiles": [
+    "Töri/Kidolgozott/9.pdf",
+    "Töri/Kiserettsegi/3.6.2.pdf",
     "Töri/Kiserettsegi/3.6.1.pdf",
     "Töri/Kiserettsegi/3.5.2.pdf",
     "Tetelek.md",
-    "Töri/Kidolgozott/9.pdf",
     "Töri/Kiserettsegi/3.6.3.pdf",
-    "Töri/Kiserettsegi/3.6.2.pdf",
     "Töri/Kiserettsegi/3.5.1.pdf",
     "Töri/Kiserettsegi/3.4.pdf",
     "Töri/Kiserettsegi/3.3.2.pdf",
