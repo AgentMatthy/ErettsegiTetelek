@@ -1,19 +1,19 @@
 
 Tori:
-- [i] 1. Az ókori Athén államszervezete
-- [i] 2. Vallások: kereszténység
-- [i] 3. Az iszlám világ
-- [i] 4. A keresztény magyar állam megalapítása
-- [i] 5. Árpád-kor: tatárjárás, az (ország)újjáépítése
-- [i] 6. A középkori városok
-- [i] 7. A vegyesházi királyok kora
-- [i] 8. A földrajzi felfedezések és következményeik
-- [i] 9. A felvilágosodás: 18. századi Magyarország felvilágosult uralkodói
+- [ ] 1. Az ókori Athén államszervezete
+- [ ] 2. Vallások: kereszténység
+- [ ] 3. Az iszlám világ
+- [ ] 4. A keresztény magyar állam megalapítása
+- [ ] 5. Árpád-kor: tatárjárás, az (ország)újjáépítése
+- [ ] 6. A középkori városok
+- [ ] 7. A vegyesházi királyok kora
+- [ ] 8. A földrajzi felfedezések és következményeik
+- [ ] 9. A felvilágosodás: 18. századi Magyarország felvilágosult uralkodói
 - [ ] 10. A reformkor fő kérdései, a reformkor kiemelkedő politikusai
 - [ ] 11. A dualizmus kora
 - [ ] 12. Az ipari forradalom második hulláma a világban és Magyarországon
 - [ ] 13. Az első világháború jellege, jellemzői, hadviselése
-- [i] 14. Politikai változások az első világháború után: forradalmi átalakulások Magyarországon
+- [ ] 14. Politikai változások az első világháború után: forradalmi átalakulások Magyarországon
 - [ ] 15. Párizs környéki békék: Magyarország első világháborús részvételét lezáró békediktátum tartalma, következményei
 - [ ] 16. Politika és gazdaság Magyarországon: politikai és gazdasági konszolidáció Magyarországon a két világháború között
 - [ ] 17. Állam, ideológia és gazdaság a két világháború között: Németország példája
@@ -24,7 +24,7 @@ Tori:
 
 Magyar:
 - [x] 1.	Az európai irodalom alapvető hagyományai – a Biblia
-- [ ] 2.	Moliére: Tartuffe
+- [x] 2.	Moliére: Tartuffe
 - [ ] 3.	Csokonai Vitéz Mihály költészetének műfaji és stílusbeli sokszínűsége
 - [ ] 4.	Vörösmarty Mihály: Csongor és Tünde
 - [ ] 5.	Petőfi Sándor forradalmi és látomásköltészete
