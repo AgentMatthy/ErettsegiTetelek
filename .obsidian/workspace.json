@@ -20,23 +20,26 @@
               "icon": "lucide-file",
               "title": "Tetelek"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "01b1f858a2405a45",
+        "type": "tabs",
+        "children": [
           {
             "id": "747e4ce02b36f92c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Magyar/External.md",
-                "mode": "source",
-                "source": false
+                "file": "Töri/Kidolgozott/9.pdf"
               },
-              "icon": "lucide-file",
-              "title": "External"
+              "icon": "lucide-file-text",
+              "title": "9"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,20 +215,20 @@
   },
   "active": "747e4ce02b36f92c",
   "lastOpenFiles": [
-    "Magyar/Kidolgozott/Krisz/17.pdf",
-    "Magyar/Kidolgozott/Krisz/18.pdf",
-    "Magyar/Kidolgozott/Krisz/19.pdf",
-    "Magyar/Kidolgozott/Krisz/20.pdf",
-    "Magyar/Kidolgozott/Krisz/Pasted image.png",
+    "Töri/Kiserettsegi/7.3.2.pdf",
+    "Töri/Kiserettsegi/7.3.1.pdf",
+    "Töri/Kiserettsegi/7.2.pdf",
+    "Töri/Kiserettsegi/7.1.2.pdf",
+    "Töri/Kiserettsegi/7.1.1.pdf",
+    "Töri/Kiserettsegi/6.6.pdf",
+    "Töri/Kiserettsegi/6.5.pdf",
+    "Töri/Kiserettsegi/6.4.pdf",
+    "Töri/Kiserettsegi/6.3.pdf",
+    "Töri/Kiserettsegi/6.2.pdf",
+    "Töri/Kiserettsegi/6.1.pdf",
     "Tetelek.md",
-    "Magyar/Kidolgozott/Krisz/3.pdf",
-    "Magyar/Kidolgozott/Krisz/2.pdf",
-    "Magyar/Kidolgozott/Krisz/1.pdf",
-    "Töri/Kidolgozott/14.pdf",
-    "Magyar/Kidolgozott/Krisz/4.pdf",
-    "Töri/Kidolgozott/2.pdf",
-    "Töri/Kiserettsegi/1.1.pdf",
     "Magyar/External.md",
+    "Magyar/Kidolgozott/Krisz/Pasted image.png",
     "2026-03-29.md",
     "Untitled.canvas",
     "2026-03-15.md",
