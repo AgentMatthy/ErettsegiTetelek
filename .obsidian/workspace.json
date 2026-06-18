@@ -20,26 +20,21 @@
               "icon": "lucide-file",
               "title": "Tetelek"
             }
-          }
-        ]
-      },
-      {
-        "id": "01b1f858a2405a45",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "747e4ce02b36f92c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Töri/Kidolgozott/9.pdf"
+                "file": "Töri/Kidolgozott/1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "9"
+              "title": "1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,17 +210,17 @@
   },
   "active": "747e4ce02b36f92c",
   "lastOpenFiles": [
-    "Töri/Kiserettsegi/7.3.2.pdf",
-    "Töri/Kiserettsegi/7.3.1.pdf",
-    "Töri/Kiserettsegi/7.2.pdf",
-    "Töri/Kiserettsegi/7.1.2.pdf",
-    "Töri/Kiserettsegi/7.1.1.pdf",
-    "Töri/Kiserettsegi/6.6.pdf",
-    "Töri/Kiserettsegi/6.5.pdf",
-    "Töri/Kiserettsegi/6.4.pdf",
-    "Töri/Kiserettsegi/6.3.pdf",
-    "Töri/Kiserettsegi/6.2.pdf",
-    "Töri/Kiserettsegi/6.1.pdf",
+    "Magyar/Kidolgozott/Krisz/20.pdf",
+    "Töri/Kidolgozott/3.pdf",
+    "Töri/Kidolgozott/14.pdf",
+    "Töri/Kidolgozott/5.2.pdf",
+    "Töri/Kiserettsegi/5.2.pdf",
+    "Töri/Kidolgozott/20.pdf",
+    "Töri/Kidolgozott/19.pdf",
+    "Töri/Kidolgozott/18.pdf",
+    "Töri/Kidolgozott/17.pdf",
+    "Töri/Kidolgozott/16.pdf",
+    "Töri/Kidolgozott/13.pdf",
     "Tetelek.md",
     "Magyar/External.md",
     "Magyar/Kidolgozott/Krisz/Pasted image.png",
