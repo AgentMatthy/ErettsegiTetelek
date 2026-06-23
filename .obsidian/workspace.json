@@ -6,6 +6,26 @@
       {
         "id": "02f341d20e473798",
         "type": "tabs",
+        "dimension": 69.50067476383266,
+        "children": [
+          {
+            "id": "747e4ce02b36f92c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Töri/Osszes/3.6.1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3.6.1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1f838c29f7f8700a",
+        "type": "tabs",
+        "dimension": 30.49932523616734,
         "children": [
           {
             "id": "928e482b358dbe35",
@@ -20,21 +40,8 @@
               "icon": "lucide-file",
               "title": "Tetelek"
             }
-          },
-          {
-            "id": "747e4ce02b36f92c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Töri/Kidolgozott/1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5a094c3104687a01",
@@ -210,18 +217,18 @@
   },
   "active": "747e4ce02b36f92c",
   "lastOpenFiles": [
-    "Magyar/Kidolgozott/Krisz/20.pdf",
-    "Töri/Kidolgozott/3.pdf",
-    "Töri/Kidolgozott/14.pdf",
-    "Töri/Kidolgozott/5.2.pdf",
-    "Töri/Kiserettsegi/5.2.pdf",
-    "Töri/Kidolgozott/20.pdf",
-    "Töri/Kidolgozott/19.pdf",
-    "Töri/Kidolgozott/18.pdf",
-    "Töri/Kidolgozott/17.pdf",
-    "Töri/Kidolgozott/16.pdf",
-    "Töri/Kidolgozott/13.pdf",
+    "Töri/Osszes/3.1.pdf",
+    "Töri/Osszes/2.5.3.pdf",
     "Tetelek.md",
+    "Töri/Osszes/2.5.2.pdf",
+    "Töri/Osszes/2.5.1.pdf",
+    "Töri/Osszes/2.1.pdf",
+    "Töri/Osszes/5.9.pdf",
+    "Töri/Osszes/4.3.pdf",
+    "Töri/Osszes/5.2.pdf",
+    "Töri/Osszes/5.5.pdf",
+    "Töri/Osszes/2.6.2.pdf",
+    "Töri/Osszes/7.3.2.pdf",
     "Magyar/External.md",
     "Magyar/Kidolgozott/Krisz/Pasted image.png",
     "2026-03-29.md",
